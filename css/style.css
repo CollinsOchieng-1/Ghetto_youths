@@ -4,3 +4,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#image{
+    background-position:relative;
+    background-size: cover;
+}
+.cardi{
+    background: black;
+    font-family: sans-serif;
+    font-style: italic;
+    color: cyan;
+}
