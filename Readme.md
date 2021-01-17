@@ -11,4 +11,14 @@
 * {https://github.com/CollinsOchieng-1/Ghetto_youths/tree/gh-pages}
 
 ### Technology used
+* html
+* style.css
+* bootsrap
+
+### Contact information
+* Tel number - +254707609168
+* Email - collinsochieng150@gmail.com
+
+####
+Collins Ochieng
 
