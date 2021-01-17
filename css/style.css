@@ -12,7 +12,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/images/105.jpg);
+    background-color:orangered ;
 }
 
 .cardi{
@@ -45,5 +45,5 @@ body{
     background-size: cover;
     background-position: relative;
     background-origin: content-box;
-    color: white;
+    color: black;
 }
