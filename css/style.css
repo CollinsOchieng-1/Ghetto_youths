@@ -5,17 +5,16 @@ h1{
 }
 .desc{
     text-align: center;
+    font-weight: bold;
 }
 body{
-    background-color:orangered;
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color:orangered ;
 }
-#image{
-    background-position:relative;
-    background-size: cover;
-}
+
 .cardi{
     background: black;
     font-family: sans-serif;
@@ -28,13 +27,23 @@ body{
     background-size: cover;
     font-family: sans-serif;
     font-style: italic;
-    color:orangered;
+    color: black;
     text-align: center;
-    background-image:url(/images/product-school-DL-yyYDDNX4-unsplash.jpg) ;
-}
-.contacter{
-    background-image: url(/images/linkedin-sales-navigator-W3Jl3jREpDY-unsplash.jpg);
-    background-position: relative;
-    background-size: cover;
+    font-weight: bolder;
+    font-size: 20px;
+ 
 
+}
+.location {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+}
+.popy{
+    background-image: url(/images/linkedin-sales-navigator-W3Jl3jREpDY-unsplash.jpg);
+    background-size: cover;
+    background-position: relative;
+      color: black;
 }
