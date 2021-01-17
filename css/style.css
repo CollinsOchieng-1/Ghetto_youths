@@ -27,7 +27,7 @@ body{
     background-size: cover;
     font-family: sans-serif;
     font-style: italic;
-    color: ;
+    color: black;
     text-align: center;
     font-weight: bolder;
     font-size: 20px;
@@ -42,8 +42,9 @@ body{
 
 }
 .popy{
+    background-image: url(/images/linkedin-sales-navigator-W3Jl3jREpDY-unsplash.jpg;
     background-size: cover;
     background-position: relative;
     background-origin: content-box;
-    color: black;
+      color: black;
 }
