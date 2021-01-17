@@ -22,6 +22,7 @@ body{
     color:orangered;
 }
 .About{
+    background-image: url(/images/jason-rosewell-ASKeuOZqhYU-unsplash.jpg);
     background-position: relative;
     background-repeat: no-repeat;
     background-size: cover;
